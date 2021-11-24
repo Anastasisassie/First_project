@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\bgntn\OneDrive\Документы\GitHub\First_project\Задание 4. New, ptr\Project3\Project3\Source.cpp(39,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\bgntn\OneDrive\Документы\GitHub\First_project\Задание 4. New, ptr\Project3\Project3\Source.cpp(64,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Project3.vcxproj -> C:\Users\bgntn\OneDrive\Документы\GitHub\First_project\Задание 4. New, ptr\Project3\x64\Debug\Project3.exe
